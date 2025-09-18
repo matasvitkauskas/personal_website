@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Matas</title>
-    <link>https://matasvitkauskas.github.io/personal_website/blog/</link>
+    <link>https://matasvitkauskas.com/blog/</link>
     <description>Recent content in Research on Matas</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://matasvitkauskas.github.io/personal_website/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://matasvitkauskas.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2020-2021 Internship: Institute of Molecular and Cellular Biology (IMCB)</title>
-      <link>https://matasvitkauskas.github.io/personal_website/blog/project1/</link>
+      <link>https://matasvitkauskas.com/blog/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://matasvitkauskas.github.io/personal_website/blog/project1/</guid>
+      <guid>https://matasvitkauskas.com/blog/project1/</guid>
       <description>Co-authored a review paper titled “Total Recall: Lateral habenula and psychedelics in the study of depression and comorbid brain disorders“. It can be accessed through this link: https://www.mdpi.com/1422-0067/21/18/6525 Received training in handling zebrafish and various genetic manipulation techniques. (examples include extracting DNA from zebrafish, PCR, bacterial transformation, injection of a DNA vector to zebrafish embryos.) Optimized light/dark the acquisition in a behavioral assay for measuring scotophobia in larval zebrafish. Wrote python scripts to analyze the locomotion of larval zebrafish.</description>
     </item>
     
     <item>
       <title>2021 Summer: Harvard University</title>
-      <link>https://matasvitkauskas.github.io/personal_website/blog/project2/</link>
+      <link>https://matasvitkauskas.com/blog/project2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://matasvitkauskas.github.io/personal_website/blog/project2/</guid>
+      <guid>https://matasvitkauskas.com/blog/project2/</guid>
       <description>Worked in Dr. William Renthal&amp;rsquo;s lab with single-cell ATAC-seq data on a project about cell-specific epigenetic regulation in the Dorsal Root Ganglion. Link to the lab website: https://renthal.bwh.harvard.edu/ Integrated single-cell RNAseq and ATACseq datasets. Performed differential open-chromatin analysis and transcriptional motif enrichment using the Signac package. Created a shinyapp that visualizes open-chromatin areas from the dataset along with gene expression data for each cell type (Deployment on the web is still in progress).</description>
     </item>
     
     <item>
       <title>2021-2022 (Bachelor-Thesis): Yale-NUS College</title>
-      <link>https://matasvitkauskas.github.io/personal_website/blog/project3/</link>
+      <link>https://matasvitkauskas.com/blog/project3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://matasvitkauskas.github.io/personal_website/blog/project3/</guid>
+      <guid>https://matasvitkauskas.com/blog/project3/</guid>
       <description>Bachelor-thesis titled “Cosmetic neurology at scale: developing a high-throughput phenotypic screening for novel nootropics in D. melanogaster” supervised by Dr. Jan Gruber. Optimized drug delivery (CAFÉ feeding assay) and 3 different behavioral tests for automation purposes. Independently performed statistical analysis (power calculations, t-test, ANOVA) and visualizations of experimental data using R. Created hypoxia recovery assay to model recovery from anesthesia in fruit flies. Discovered that lacing fly food with caffeine, nicotine, modafinil, and l-theanine all improve the rate of recovery from CO2 anesthesia in relation to sucrose-fed flies.</description>
     </item>
     
     <item>
       <title>Current Project: Genome Institute of Singapore</title>
-      <link>https://matasvitkauskas.github.io/personal_website/blog/project4/</link>
+      <link>https://matasvitkauskas.com/blog/project4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://matasvitkauskas.github.io/personal_website/blog/project4/</guid>
+      <guid>https://matasvitkauskas.com/blog/project4/</guid>
       <description>I am currently working as a 80% dry-lab, 20% wet-lab research assistant in the single-cell spatial neuromics lab led by Dr. Jinyue Liu. The lab uses single-cell RNA-seq (scRNAseq) in tandem with multiplexed error-robust fluorescence in situ hybridization (MERFISH) in studying human psychiatric diseases like Parkinson&amp;rsquo;s disease and autism. The lab employs a human disease model called cerebral brain organoids which are stem-cell-derived &amp;ldquo;mini-brains&amp;rdquo; that are similar to 10-week-old human fetus brains.</description>
     </item>
     
